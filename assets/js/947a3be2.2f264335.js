@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["7671"],{35071(e){e.exports=JSON.parse('{"tags":[{"label":"release","permalink":"/flicking-docs-test/releases/tags/release","count":96}]}')}}]);

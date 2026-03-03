@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([["2953"],{54213(e){e.exports=JSON.parse('{"metadata":{"permalink":"/flicking-docs-test/ko/releases","page":1,"postsPerPage":96,"totalPages":1,"totalCount":96,"blogDescription":"Blog","blogTitle":"Releases"}}')}}]);

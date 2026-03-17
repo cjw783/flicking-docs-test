@@ -10,9 +10,9 @@ Dynamically add or remove panels using the `prepend()`, `append()`, and `remove(
 
 | Method | Signature | Description |
 |--------|-----------|-------------|
-| [`append`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#append) | `append(element): Panel[]` | Add after the last panel |
-| [`prepend`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#prepend) | `prepend(element): Panel[]` | Add before the first panel |
-| [`remove`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#remove) | `remove(index, count?): Panel[]` | Remove panel at specified index |
+| [`append`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#append) | `append(element): Panel[]` | Add after the last panel |
+| [`prepend`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prepend) | `prepend(element): Panel[]` | Add before the first panel |
+| [`remove`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#remove) | `remove(index, count?): Panel[]` | Remove panel at specified index |
 
 ### Behavior Comparison
 
@@ -52,13 +52,13 @@ Dynamically add or remove panels using the `prepend()`, `append()`, and `remove(
 ## Related Links
 
 ### Related API
-- [`append`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#append): Add after panels
-- [`prepend`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#prepend): Add before panels
-- [`remove`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#remove): Remove panels
+- [`append`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#append): Add after panels
+- [`prepend`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prepend): Add before panels
+- [`remove`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#remove): Remove panels
 
 ### Related Demos
-- [Infinite Scroll](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/infinite-scroll.md): Automatic panel addition with the `needPanel` event
-- [Lazy Load](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/lazy-load.md): Optimization pattern used with `renderOnlyVisible`
+- [Infinite Scroll](https://cjw783.github.io/flicking-docs-test/docs/infinite-scroll): Automatic panel addition with the `needPanel` event
+- [Lazy Load](https://cjw783.github.io/flicking-docs-test/docs/lazy-load): Optimization pattern used with `renderOnlyVisible`
 
 ## Code
 

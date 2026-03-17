@@ -4,7 +4,7 @@
 
 ## Description
 
-These errors can occur when using DOM manipulation methods like [insert](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#insert), [append](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#append), [prepend](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#prepend), `replace`, or [remove](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#remove).
+These errors can occur when using DOM manipulation methods like [insert](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#insert), [append](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#append), [prepend](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prepend), `replace`, or [remove](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#remove).
 
 Common scenarios:
 

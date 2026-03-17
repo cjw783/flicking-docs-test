@@ -12,7 +12,7 @@ Creates a new Camera instance
 
 ### Parameters
 
-**`flicking`** (`Flicking`) - An instance of [Flicking](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md)
+**`flicking`** (`Flicking`) - An instance of [Flicking](https://cjw783.github.io/flicking-docs-test/docs/api/Flicking)
 
 **`{ align }`** (`Partial<CameraOptions>`) - 
 
@@ -22,13 +22,13 @@ Creates a new Camera instance
 
 **Type:** `FlickingOptions["align"]`
 
-A value indicating where the [alignPosition](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md#alignposition) should be located at inside the viewport element
+A value indicating where the [alignPosition](https://cjw783.github.io/flicking-docs-test/docs/api/Camera#alignposition) should be located at inside the viewport element
 
 ### alignPosition
 
 **Type:** `number`
 
-Align position inside the viewport where [Panel](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Panel.md)'s [alignPosition](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Panel.md#alignposition) should be located at
+Align position inside the viewport where [Panel](https://cjw783.github.io/flicking-docs-test/docs/api/Panel)'s [alignPosition](https://cjw783.github.io/flicking-docs-test/docs/api/Panel#alignposition) should be located at
 
 *This property is read-only.*
 
@@ -36,7 +36,7 @@ Align position inside the viewport where [Panel](https://naver.github.io/egjs-fl
 
 **Type:** `AnchorPoint[]`
 
-An array of [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md)s that Camera can be stopped at
+An array of [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint)s that Camera can be stopped at
 
 *This property is read-only.*
 
@@ -62,7 +62,7 @@ An array of the child elements of the camera element(`.flicking-camera`)
 
 Whether the `circular` option is enabled.
 
-**Remarks:** The [circular](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#circular) option can't be enabled when sum of the panel sizes are too small.
+**Remarks:** The [circular](https://cjw783.github.io/flicking-docs-test/docs/api/Flicking#circular) option can't be enabled when sum of the panel sizes are too small.
 
 **Default:** `false`
 
@@ -100,7 +100,7 @@ A current camera mode
 
 **Type:** `number`
 
-Position offset, used for the [renderOnlyVisible](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#renderonlyvisible) option
+Position offset, used for the [renderOnlyVisible](https://cjw783.github.io/flicking-docs-test/docs/api/Flicking#renderonlyvisible) option
 
 **Default:** `0`
 
@@ -136,7 +136,7 @@ Return the camera's position progress from the first panel to last panel
 
 **Type:** `CameraRange`
 
-A range that Camera's [position](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md#position) can reach
+A range that Camera's [position](https://cjw783.github.io/flicking-docs-test/docs/api/Camera#position) can reach
 
 *This property is read-only.*
 
@@ -194,7 +194,7 @@ Check whether the given panel is inside of the Camera's range
 
 **Parameters:**
 
-- `panel` (`Panel`) - An instance of [Panel](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Panel.md) to check
+- `panel` (`Panel`) - An instance of [Panel](https://cjw783.github.io/flicking-docs-test/docs/api/Panel) to check
 
 **Returns:** Whether the panel's inside Camera's range
 
@@ -208,7 +208,7 @@ Check whether the given panel element is visible at the current position
 
 **Parameters:**
 
-- `panel` (`Panel`) - An instance of [Panel](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Panel.md) to check
+- `panel` (`Panel`) - An instance of [Panel](https://cjw783.github.io/flicking-docs-test/docs/api/Panel) to check
 
 **Returns:** Whether the panel element is visible at the current position
 
@@ -244,7 +244,7 @@ Destroy Camera and return to initial state
 findActiveAnchor(): AnchorPoint | null
 ```
 
-Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md) that matches [currentPanel](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#currentpanel)
+Return [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint) that matches [currentPanel](https://cjw783.github.io/flicking-docs-test/docs/api/Flicking#currentpanel)
 
 **Returns:** The AnchorPoint that matches current panel
 
@@ -254,7 +254,7 @@ Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/
 findAnchorIncludePosition(position: number): AnchorPoint | null
 ```
 
-Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md) that includes given position
+Return [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint) that includes given position
 
 **Parameters:**
 
@@ -262,7 +262,7 @@ Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/
 
 **Returns:** The AnchorPoint that includes the given position
 
-**Remarks:** If there's no [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md) that includes the given position, return `null` instead
+**Remarks:** If there's no [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint) that includes the given position, return `null` instead
 
 ### findNearestAnchor
 
@@ -270,7 +270,7 @@ Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/
 findNearestAnchor(position: number): AnchorPoint | null
 ```
 
-Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md) nearest to given position
+Return [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint) nearest to given position
 
 **Parameters:**
 
@@ -278,7 +278,7 @@ Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/
 
 **Returns:** The AnchorPoint nearest to the given position
 
-**Remarks:** If there're no [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md)s, return `null` instead
+**Remarks:** If there're no [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint)s, return `null` instead
 
 ### getNextAnchor
 
@@ -286,11 +286,11 @@ Return [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/
 getNextAnchor(anchor: AnchorPoint): AnchorPoint | null
 ```
 
-Return a next [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md) of given [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md)
+Return a next [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint) of given [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint)
 
 **Parameters:**
 
-- `anchor` (`AnchorPoint`) - A reference [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md)
+- `anchor` (`AnchorPoint`) - A reference [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint)
 
 **Returns:** The next AnchorPoint
 
@@ -302,11 +302,11 @@ Return a next [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/c
 getPrevAnchor(anchor: AnchorPoint): AnchorPoint | null
 ```
 
-Return a previous [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md) of given [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md)
+Return a previous [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint) of given [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint)
 
 **Parameters:**
 
-- `anchor` (`AnchorPoint`) - A reference [AnchorPoint](https://naver.github.io/egjs-flicking/llm-docs/api/classes/AnchorPoint.md)
+- `anchor` (`AnchorPoint`) - A reference [AnchorPoint](https://cjw783.github.io/flicking-docs-test/docs/api/AnchorPoint)
 
 **Returns:** The previous AnchorPoint
 
@@ -338,11 +338,11 @@ Initialize Camera
 
 **Returns:** The current instance for method chaining
 
-**Remarks:** This method is called automatically during [init](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#init). It finds the camera element inside the viewport.
+**Remarks:** This method is called automatically during [init](https://cjw783.github.io/flicking-docs-test/docs/api/Flicking#init). It finds the camera element inside the viewport.
 
 **Throws:**
 
-- [InitializationErrors](https://naver.github.io/egjs-flicking/llm-docs/api/types/InitializationErrors.md)
+- [InitializationErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/InitializationErrors)
 
 ### lookAt
 
@@ -360,7 +360,7 @@ Move to the given position and apply CSS transform
 
 **Throws:**
 
-- [InitializationErrors](https://naver.github.io/egjs-flicking/llm-docs/api/types/InitializationErrors.md)
+- [InitializationErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/InitializationErrors)
 
 ### resetNeedPanelHistory
 
@@ -380,11 +380,11 @@ updateAdaptiveHeight(): void
 
 Update Viewport's height to visible panel's max height
 
-**Remarks:** This method only takes effect when [horizontal](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#horizontal) is `true` and [adaptive](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#adaptive) is enabled.
+**Remarks:** This method only takes effect when [horizontal](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#horizontal) is `true` and [adaptive](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#adaptive) is enabled.
 
 **Throws:**
 
-- [InitializationErrors](https://naver.github.io/egjs-flicking/llm-docs/api/types/InitializationErrors.md)
+- [InitializationErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/InitializationErrors)
 
 ### updateAlignPos
 
@@ -392,7 +392,7 @@ Update Viewport's height to visible panel's max height
 updateAlignPos(): this
 ```
 
-Update Camera's [alignPosition](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md#alignposition)
+Update Camera's [alignPosition](https://cjw783.github.io/flicking-docs-test/docs/api/Camera#alignposition)
 
 **Returns:** The current instance for method chaining
 
@@ -402,7 +402,7 @@ Update Camera's [alignPosition](https://naver.github.io/egjs-flicking/llm-docs/a
 updateAnchors(): this
 ```
 
-Update Camera's [anchorPoints](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md#anchorpoints)
+Update Camera's [anchorPoints](https://cjw783.github.io/flicking-docs-test/docs/api/Camera#anchorpoints)
 
 **Returns:** The current instance for method chaining
 
@@ -410,7 +410,7 @@ Update Camera's [anchorPoints](https://naver.github.io/egjs-flicking/llm-docs/ap
 
 **Throws:**
 
-- [InitializationErrors](https://naver.github.io/egjs-flicking/llm-docs/api/types/InitializationErrors.md)
+- [InitializationErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/InitializationErrors)
 
 ### updateOffset
 
@@ -438,7 +438,7 @@ Update [direction](https://developer.mozilla.org/en-US/docs/Web/CSS/direction) t
 updateRange(): this
 ```
 
-Update [range](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md#range) of Camera
+Update [range](https://cjw783.github.io/flicking-docs-test/docs/api/Camera#range) of Camera
 
 **Returns:** The current instance for method chaining
 
@@ -446,4 +446,4 @@ Update [range](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera
 
 **Throws:**
 
-- [InitializationErrors](https://naver.github.io/egjs-flicking/llm-docs/api/types/InitializationErrors.md)
+- [InitializationErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/InitializationErrors)

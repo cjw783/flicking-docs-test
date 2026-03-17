@@ -1,6 +1,6 @@
 # Resize Debounce
 
-Control the resize call frequency using the [`resizeDebounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#resizedebounce) and [`maxResizeDebounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#maxresizedebounce) options.
+Control the resize call frequency using the [`resizeDebounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#resizedebounce) and [`maxResizeDebounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#maxresizedebounce) options.
 
 Try dragging the bottom-right corner of the container and compare the resize call frequency between the two carousels.
 
@@ -12,8 +12,8 @@ Try dragging the bottom-right corner of the container and compare the resize cal
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`resizeDebounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#resizedebounce) | `number` | `0` | Resize call debounce delay (ms) |
-| [`maxResizeDebounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#maxresizedebounce) | `number` | `100` | Maximum debounce delay guarantee (ms) |
+| [`resizeDebounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#resizedebounce) | `number` | `0` | Resize call debounce delay (ms) |
+| [`maxResizeDebounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#maxresizedebounce) | `number` | `100` | Maximum debounce delay guarantee (ms) |
 
 ### Behavior Comparison
 
@@ -49,12 +49,12 @@ Try dragging the bottom-right corner of the container and compare the resize cal
 ## Related Links
 
 ### Related Options
-- [`resizeDebounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#resizedebounce): Resize debounce
-- [`maxResizeDebounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#maxresizedebounce): Maximum debounce
+- [`resizeDebounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#resizedebounce): Resize debounce
+- [`maxResizeDebounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#maxresizedebounce): Maximum debounce
 
 ### Related Demos
-- [Auto Resize](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/auto-resize.md): Resize detection method settings
-- [Optimize Size Update](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/optimize-size-update.md): Skip unnecessary axis changes
+- [Auto Resize](https://cjw783.github.io/flicking-docs-test/docs/auto-resize): Resize detection method settings
+- [Optimize Size Update](https://cjw783.github.io/flicking-docs-test/docs/optimize-size-update): Skip unnecessary axis changes
 
 ## Code
 

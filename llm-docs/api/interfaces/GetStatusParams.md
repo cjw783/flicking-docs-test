@@ -1,6 +1,6 @@
 # GetStatusParams
 
-> Parameters for [getStatus](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#getstatus)
+> Parameters for [getStatus](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#getstatus)
 
 ## Properties
 
@@ -28,7 +28,7 @@ Include current panel index
 
 **Type:** `boolean`
 
-Include camera position. Only works when [moveType](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#movetype) is `freeScroll`
+Include camera position. Only works when [moveType](https://cjw783.github.io/flicking-docs-test/docs/api/FlickingOptions#movetype) is `freeScroll`
 
 **Default:** `true`
 

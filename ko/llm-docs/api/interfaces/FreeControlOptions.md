@@ -1,6 +1,6 @@
 # FreeControlOptions
 
-> Options for the [FreeControl](https://naver.github.io/egjs-flicking/llm-docs/api/classes/FreeControl.md)
+> Options for the [FreeControl](https://cjw783.github.io/flicking-docs-test/docs/api/classes/FreeControl)
 
 ## Properties
 

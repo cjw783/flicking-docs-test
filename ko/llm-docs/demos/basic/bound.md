@@ -1,6 +1,6 @@
 # Bound
 
-The [`bound`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bound) option restricts the camera from going beyond the first and last panel boundaries. It can be used together with the [`bounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bounce) option to control the elastic effect at the boundaries.
+The [`bound`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bound) option restricts the camera from going beyond the first and last panel boundaries. It can be used together with the [`bounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bounce) option to control the elastic effect at the boundaries.
 
 
 
@@ -10,8 +10,8 @@ The [`bound`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/Flic
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`bound`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bound) | `boolean` | `false` | Enable boundary restriction |
-| [`bounce`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bounce) | `number \| string \| [number \| string, number \| string]` | `"20%"` | Bounce area size |
+| [`bound`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bound) | `boolean` | `false` | Enable boundary restriction |
+| [`bounce`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bounce) | `number \| string \| [number \| string, number \| string]` | `"20%"` | Bounce area size |
 
 ### Comparison by Value
 
@@ -61,12 +61,12 @@ If the bounce value is too large, users may be confused about whether they have 
 ## Related Links
 
 ### Related Options
-- [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular): Infinite loop mode (mutually exclusive with bound)
-- [`moveType`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#movetype): Movement behavior mode (freeScroll + bound combination recommended)
+- [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular): Infinite loop mode (mutually exclusive with bound)
+- [`moveType`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#movetype): Movement behavior mode (freeScroll + bound combination recommended)
 
 ### Related Demos
-- [Circular](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/circular.md): Infinite loop mode
-- [Movement Types](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/movement-types.md): freeScroll + bound combination
+- [Circular](https://cjw783.github.io/flicking-docs-test/docs/circular): Infinite loop mode
+- [Movement Types](https://cjw783.github.io/flicking-docs-test/docs/movement-types): freeScroll + bound combination
 
 ## Code
 

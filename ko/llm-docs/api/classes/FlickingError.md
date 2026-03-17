@@ -1,10 +1,10 @@
 # FlickingError
 
-> Special type of known error that [Flicking](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md) throws.
+> Special type of known error that [Flicking](https://cjw783.github.io/flicking-docs-test/docs/api/Flicking) throws.
 
 ## Description
 
-see [FlickingErrors](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingErrors.md) for possible error codes and explantaion
+see [FlickingErrors](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingErrors) for possible error codes and explantaion
 
 ## Constructor
 

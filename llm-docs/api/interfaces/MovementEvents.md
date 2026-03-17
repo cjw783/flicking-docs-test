@@ -8,58 +8,58 @@
 
 **Type:** `ChangedEvent`
 
-see [ChangedEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/ChangedEvent.md)
+see [ChangedEvent](https://cjw783.github.io/flicking-docs-test/docs/api/ChangedEvent)
 
 ### move
 
 **Type:** `MoveEvent`
 
-see [MoveEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/MoveEvent.md)
+see [MoveEvent](https://cjw783.github.io/flicking-docs-test/docs/api/MoveEvent)
 
 ### moveEnd
 
 **Type:** `MoveEndEvent`
 
-see [MoveEndEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/MoveEndEvent.md)
+see [MoveEndEvent](https://cjw783.github.io/flicking-docs-test/docs/api/MoveEndEvent)
 
 ### moveStart
 
 **Type:** `MoveStartEvent`
 
-see [MoveStartEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/MoveStartEvent.md)
+see [MoveStartEvent](https://cjw783.github.io/flicking-docs-test/docs/api/MoveStartEvent)
 
 ### needPanel
 
 **Type:** `NeedPanelEvent`
 
-see [NeedPanelEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/NeedPanelEvent.md)
+see [NeedPanelEvent](https://cjw783.github.io/flicking-docs-test/docs/api/NeedPanelEvent)
 
 ### reachEdge
 
 **Type:** `ReachEdgeEvent`
 
-see [ReachEdgeEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/ReachEdgeEvent.md)
+see [ReachEdgeEvent](https://cjw783.github.io/flicking-docs-test/docs/api/ReachEdgeEvent)
 
 ### restored
 
 **Type:** `RestoredEvent`
 
-see [RestoredEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/RestoredEvent.md)
+see [RestoredEvent](https://cjw783.github.io/flicking-docs-test/docs/api/RestoredEvent)
 
 ### visibleChange
 
 **Type:** `VisibleChangeEvent`
 
-see [VisibleChangeEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/VisibleChangeEvent.md)
+see [VisibleChangeEvent](https://cjw783.github.io/flicking-docs-test/docs/api/VisibleChangeEvent)
 
 ### willChange
 
 **Type:** `WillChangeEvent`
 
-see [WillChangeEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/WillChangeEvent.md)
+see [WillChangeEvent](https://cjw783.github.io/flicking-docs-test/docs/api/WillChangeEvent)
 
 ### willRestore
 
 **Type:** `WillRestoreEvent`
 
-see [WillRestoreEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/WillRestoreEvent.md)
+see [WillRestoreEvent](https://cjw783.github.io/flicking-docs-test/docs/api/WillRestoreEvent)

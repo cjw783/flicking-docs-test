@@ -1,6 +1,6 @@
 # Optimize Size Update
 
-Use the [`optimizeSizeUpdate`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#optimizesizeupdate) option to skip forced panel rendering (`forceRenderAllPanels`) when the size change occurs on an axis irrelevant to the Flicking direction, optimizing performance.
+Use the [`optimizeSizeUpdate`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#optimizesizeupdate) option to skip forced panel rendering (`forceRenderAllPanels`) when the size change occurs on an axis irrelevant to the Flicking direction, optimizing performance.
 
 Try swiping through panels and compare the **flickering** difference between the two carousels.
 With `optimizeSizeUpdate: false`, all 200 panels are inserted into and removed from the DOM on every height change, causing flickering.
@@ -14,7 +14,7 @@ With `true`, this process is skipped when only the height changes, resulting in 
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`optimizeSizeUpdate`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#optimizesizeupdate) | `boolean` | `false` | Skip forced panel rendering when irrelevant axis changes based on direction |
+| [`optimizeSizeUpdate`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#optimizesizeupdate) | `boolean` | `false` | Skip forced panel rendering when irrelevant axis changes based on direction |
 
 ### Direction-Based Behavior
 
@@ -51,7 +51,7 @@ With optimizeSizeUpdate: true applied:
 
 Inside Flicking's `resize()`, `forceRenderAllPanels()` is called to accurately measure all panel sizes. This method renders all panels to the DOM so their sizes can be measured.
 
-When using [`renderOnlyVisible`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#renderonlyvisible) or virtual rendering, non-visible panels are normally removed from the DOM. During `resize()`, inserting and removing all these panels becomes increasingly expensive as the panel count grows.
+When using [`renderOnlyVisible`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#renderonlyvisible) or virtual rendering, non-visible panels are normally removed from the DOM. During `resize()`, inserting and removing all these panels becomes increasingly expensive as the panel count grows.
 
 With `optimizeSizeUpdate: true`, this forced rendering is skipped when only the axis irrelevant to the Flicking direction has changed.
 
@@ -88,14 +88,14 @@ In normal rendering mode, all panels are always in the DOM, so `forceRenderAllPa
 ## Related Links
 
 ### Related Options
-- [`optimizeSizeUpdate`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#optimizesizeupdate): Size update optimization
-- [`autoResize`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#autoresize): Auto resize (dependent option)
-- [`renderOnlyVisible`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#renderonlyvisible): Render only visible panels
+- [`optimizeSizeUpdate`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#optimizesizeupdate): Size update optimization
+- [`autoResize`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#autoresize): Auto resize (dependent option)
+- [`renderOnlyVisible`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#renderonlyvisible): Render only visible panels
 
 ### Related Demos
-- [Auto Resize](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/auto-resize.md): Resize detection method settings
-- [Resize Debounce](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/resize-debounce.md): Control resize call frequency
-- [Render Only Visible](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/render-only-visible.md): Render only visible panels
+- [Auto Resize](https://cjw783.github.io/flicking-docs-test/docs/auto-resize): Resize detection method settings
+- [Resize Debounce](https://cjw783.github.io/flicking-docs-test/docs/resize-debounce): Control resize call frequency
+- [Render Only Visible](https://cjw783.github.io/flicking-docs-test/docs/render-only-visible): Render only visible panels
 
 ## Code
 

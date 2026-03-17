@@ -1,6 +1,6 @@
 # Circular
 
-The [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular) option connects the first and last panels to enable infinite loop navigation. Moving next from the last panel goes to the first panel, and moving previous from the first panel goes to the last panel.
+The [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular) option connects the first and last panels to enable infinite loop navigation. Moving next from the last panel goes to the first panel, and moving previous from the first panel goes to the last panel.
 
 
 
@@ -10,8 +10,8 @@ The [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/F
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular) | `boolean` | `false` | Enable infinite loop mode |
-| [`circularFallback`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circularfallback) | `"linear" \| "bound"` | `"linear"` | Fallback behavior when circular cannot be activated |
+| [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular) | `boolean` | `false` | Enable infinite loop mode |
+| [`circularFallback`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circularfallback) | `"linear" \| "bound"` | `"linear"` | Fallback behavior when circular cannot be activated |
 
 ### Comparison by Value
 
@@ -55,12 +55,12 @@ Circular mode is only activated when **total panel size >= viewport size**. If t
 ## Related Links
 
 ### Related Options
-- [`bound`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bound): Boundary restriction mode (mutually exclusive with circular)
-- [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#align): Panel alignment method
+- [`bound`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bound): Boundary restriction mode (mutually exclusive with circular)
+- [`align`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#align): Panel alignment method
 
 ### Related Demos
-- [Alignment](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/alignment.md): Alignment options with circular combination
-- [Bound](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/bound.md): Boundary restriction mode
+- [Alignment](https://cjw783.github.io/flicking-docs-test/docs/alignment): Alignment options with circular combination
+- [Bound](https://cjw783.github.io/flicking-docs-test/docs/bound): Boundary restriction mode
 
 ## Code
 

@@ -1,6 +1,6 @@
 # SnapControl
 
-> A [Control](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Control.md) that uses a release momentum to choose destination panel
+> A [Control](https://cjw783.github.io/flicking-docs-test/docs/api/Control) that uses a release momentum to choose destination panel
 
 ## Constructor
 
@@ -28,7 +28,7 @@ Maximum number of panels can go after release
 moveToPosition(position: number, duration: number, axesEvent?: OnRelease): Promise<void>
 ```
 
-Move [Camera](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md) to the given position
+Move [Camera](https://cjw783.github.io/flicking-docs-test/docs/api/Camera) to the given position
 
 **Parameters:**
 
@@ -44,8 +44,8 @@ Move [Camera](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.
 
 **Throws:**
 
-- [MovementErrors](https://naver.github.io/egjs-flicking/llm-docs/api/types/MovementErrors.md)
+- [MovementErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/MovementErrors)
 
 **Fires:**
 
-- [MovementEvents](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/MovementEvents.md)
+- [MovementEvents](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/MovementEvents)

@@ -1,6 +1,6 @@
 # VirtualPanelOptions
 
-> Options for creating a [VirtualPanel](https://naver.github.io/egjs-flicking/llm-docs/api/classes/VirtualPanel.md)
+> Options for creating a [VirtualPanel](https://cjw783.github.io/flicking-docs-test/docs/api/classes/VirtualPanel)
 
 ## Properties
 

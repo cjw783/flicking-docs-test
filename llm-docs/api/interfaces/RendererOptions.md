@@ -1,6 +1,6 @@
 # RendererOptions
 
-> Options for creating a [Renderer](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Renderer.md)
+> Options for creating a [Renderer](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Renderer)
 
 ## Properties
 
@@ -8,7 +8,7 @@
 
 **Type:** `FlickingOptions["align"]`
 
-An [align](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#align) value that will be applied to all panels
+An [align](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#align) value that will be applied to all panels
 
 *This property is optional.*
 

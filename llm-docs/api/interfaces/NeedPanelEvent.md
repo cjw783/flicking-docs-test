@@ -4,7 +4,7 @@
 
 ## Description
 
-You can set its threshold with [needPanelThreshold](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#needpanelthreshold)
+You can set its threshold with [needPanelThreshold](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#needpanelthreshold)
 
 ## Properties
 
@@ -12,4 +12,4 @@ You can set its threshold with [needPanelThreshold](https://naver.github.io/egjs
 
 **Type:** `Exclude<ValueOf<typeof DIRECTION>, null>`
 
-Direction where new panel is needed. `DIRECTION.PREV` means panels should be [prepend](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#prepend)ed and `DIRECTION.NEXT` means panels should be [append](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#append)ed
+Direction where new panel is needed. `DIRECTION.PREV` means panels should be [prepend](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prepend)ed and `DIRECTION.NEXT` means panels should be [append](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#append)ed

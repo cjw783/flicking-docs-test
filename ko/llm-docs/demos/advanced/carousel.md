@@ -1,6 +1,6 @@
 # Carousel
 
-Combine the [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular), [`panelsPerView`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#panelsperview), and [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#align) options to build various carousel UIs.
+Combine the [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular), [`panelsPerView`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#panelsperview), and [`align`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#align) options to build various carousel UIs.
 
 
 
@@ -10,9 +10,9 @@ Combine the [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/inte
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular) | `boolean` | `false` | Circular mode |
-| [`panelsPerView`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#panelsperview) | `number` | `-1` | Number of panels per view (-1 to disable) |
-| [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#align) | `string \| number` | `"center"` | Panel alignment position |
+| [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular) | `boolean` | `false` | Circular mode |
+| [`panelsPerView`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#panelsperview) | `number` | `-1` | Number of panels per view (-1 to disable) |
+| [`align`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#align) | `string \| number` | `"center"` | Panel alignment position |
 
 ### Combination Comparison
 
@@ -59,16 +59,16 @@ Setting `circular: false` + `bound: true` creates a regular slider that stops wi
 ## Related Links
 
 ### Related Options
-- [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular): Circular mode
-- [`panelsPerView`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#panelsperview): Number of panels per view
-- [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#align): Panel alignment
-- [`circularFallback`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circularfallback): Fallback behavior when circular is not possible
-- [`bound`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bound): Boundary restriction
+- [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular): Circular mode
+- [`panelsPerView`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#panelsperview): Number of panels per view
+- [`align`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#align): Panel alignment
+- [`circularFallback`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circularfallback): Fallback behavior when circular is not possible
+- [`bound`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bound): Boundary restriction
 
 ### Related Demos
-- [Circular](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/circular.md): On/off comparison of the circular option itself
-- [Panels Per View](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/panels-per-view.md): Detailed panelsPerView option
-- [Fullpage Scroll](https://naver.github.io/egjs-flicking/llm-docs/demos/advanced/fullpage-scroll.md): Other option combination patterns
+- [Circular](https://cjw783.github.io/flicking-docs-test/docs/basic/circular): On/off comparison of the circular option itself
+- [Panels Per View](https://cjw783.github.io/flicking-docs-test/docs/basic/panels-per-view): Detailed panelsPerView option
+- [Fullpage Scroll](https://cjw783.github.io/flicking-docs-test/docs/fullpage-scroll): Other option combination patterns
 
 ## Code
 

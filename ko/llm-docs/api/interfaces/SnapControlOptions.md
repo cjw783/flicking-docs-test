@@ -1,6 +1,6 @@
 # SnapControlOptions
 
-> Options for the [SnapControl](https://naver.github.io/egjs-flicking/llm-docs/api/classes/SnapControl.md)
+> Options for the [SnapControl](https://cjw783.github.io/flicking-docs-test/docs/api/classes/SnapControl)
 
 ## Properties
 

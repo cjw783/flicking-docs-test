@@ -1,6 +1,6 @@
 # MOVE_DIRECTION
 
-> An object that contains the direction that [Flicking](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md) is moving
+> An object that contains the direction that [Flicking](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking) is moving
 
 ## Type
 

@@ -1,6 +1,6 @@
 # Movement Types
 
-The [`moveType`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#movetype) option controls panel movement and snap behavior. Three modes are available: snap, freeScroll, and strict.
+The [`moveType`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#movetype) option controls panel movement and snap behavior. Three modes are available: snap, freeScroll, and strict.
 
 
 
@@ -10,7 +10,7 @@ The [`moveType`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/F
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`moveType`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#movetype) | `"snap" \| "freeScroll" \| "strict" \| object` | `"snap"` | Movement behavior mode |
+| [`moveType`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#movetype) | `"snap" \| "freeScroll" \| "strict" \| object` | `"snap"` | Movement behavior mode |
 
 ### Comparison by Value
 
@@ -64,14 +64,14 @@ Moves exactly one panel per flick. No matter how fast you drag, only one panel m
 ## Related Links
 
 ### Related Options
-- [`bound`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bound): Boundary restriction (recommended with freeScroll)
-- [`threshold`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#threshold): Minimum drag distance for panel transition
-- [`duration`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#duration): Animation duration
+- [`bound`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bound): Boundary restriction (recommended with freeScroll)
+- [`threshold`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#threshold): Minimum drag distance for panel transition
+- [`duration`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#duration): Animation duration
 
 ### Related Demos
-- [Alignment](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/alignment.md): Panel alignment
-- [Bound](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/bound.md): Boundary restriction mode
-- [Threshold](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/threshold.md): Drag threshold
+- [Alignment](https://cjw783.github.io/flicking-docs-test/docs/alignment): Panel alignment
+- [Bound](https://cjw783.github.io/flicking-docs-test/docs/bound): Boundary restriction mode
+- [Threshold](https://cjw783.github.io/flicking-docs-test/docs/threshold): Drag threshold
 
 ## Code
 

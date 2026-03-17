@@ -12,12 +12,12 @@ When created without any options, the following defaults are applied:
 
 | Option | Default | Description |
 |--------|---------|-------------|
-| [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#align) | `"center"` | Panel alignment position |
-| [`horizontal`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#horizontal) | `true` | Horizontal movement |
-| [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular) | `false` | Circular mode disabled |
-| [`bound`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#bound) | `false` | No boundary restriction |
-| [`duration`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#duration) | `500` | Animation 500ms |
-| [`moveType`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#movetype) | `"snap"` | Snap movement type |
+| [`align`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#align) | `"center"` | Panel alignment position |
+| [`horizontal`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#horizontal) | `true` | Horizontal movement |
+| [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular) | `false` | Circular mode disabled |
+| [`bound`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#bound) | `false` | No boundary restriction |
+| [`duration`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#duration) | `500` | Animation 500ms |
+| [`moveType`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#movetype) | `"snap"` | Snap movement type |
 
 ### Required Elements
 
@@ -72,9 +72,9 @@ Panel elements must be **direct children** of `.flicking-camera`. It will not wo
 ## Related Links
 
 ### Related Demos
-- [Alignment](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/alignment.md): Panel alignment options
-- [Circular](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/circular.md): Circular mode
-- [Movement Types](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/movement-types.md): Movement types
+- [Alignment](https://cjw783.github.io/flicking-docs-test/docs/alignment): Panel alignment options
+- [Circular](https://cjw783.github.io/flicking-docs-test/docs/circular): Circular mode
+- [Movement Types](https://cjw783.github.io/flicking-docs-test/docs/movement-types): Movement types
 
 ## Code
 

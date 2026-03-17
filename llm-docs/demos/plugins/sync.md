@@ -77,8 +77,8 @@ onMounted(() => {
 ## Related Links
 
 ### Related Demos
-- [Arrow](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/arrow.md): Use with arrow navigation
-- [Pagination](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/pagination.md): Use with page indicator
+- [Arrow](https://cjw783.github.io/flicking-docs-test/docs/arrow): Use with arrow navigation
+- [Pagination](https://cjw783.github.io/flicking-docs-test/docs/pagination): Use with page indicator
 
 ## Code
 

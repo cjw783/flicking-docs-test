@@ -1,6 +1,6 @@
 # SychronizableFlickingOptions
 
-> Per-instance synchronization options used in [synchronizedFlickingOptions](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Sync.md#synchronizedflickingoptions)
+> Per-instance synchronization options used in [synchronizedFlickingOptions](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Sync#synchronizedflickingoptions)
 
 ## Properties
 

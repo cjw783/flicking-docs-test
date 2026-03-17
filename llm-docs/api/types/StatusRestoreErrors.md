@@ -4,7 +4,7 @@
 
 ## Description
 
-These errors can occur when using [setStatus](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#setstatus) to restore a previously saved status (from [getStatus](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#getstatus)).
+These errors can occur when using [setStatus](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#setstatus) to restore a previously saved status (from [getStatus](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#getstatus)).
 
 Common scenarios:
 

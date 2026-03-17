@@ -4,7 +4,7 @@
 
 **See Also:**
 
-- [Demo: Arrow](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/arrow.md)
+- [Demo: Arrow](https://cjw783.github.io/flicking-docs-test/docs/api/../demos/plugins/arrow)
 
 ## Constructor
 
@@ -80,19 +80,19 @@ CSS selector for the "previous" arrow element
 
 **Type:** `ArrowOptions["disabledClass"]`
 
-Current value of the [disabledClass](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Arrow.md#disabledclass) option.
+Current value of the [disabledClass](https://cjw783.github.io/flicking-docs-test/docs/api/Arrow#disabledclass) option.
 
 ### moveByViewportSize
 
 **Type:** `ArrowOptions["moveByViewportSize"]`
 
-Current value of the [moveByViewportSize](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Arrow.md#movebyviewportsize) option.
+Current value of the [moveByViewportSize](https://cjw783.github.io/flicking-docs-test/docs/api/Arrow#movebyviewportsize) option.
 
 ### moveCount
 
 **Type:** `ArrowOptions["moveCount"]`
 
-Current value of the [moveCount](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Arrow.md#movecount) option.
+Current value of the [moveCount](https://cjw783.github.io/flicking-docs-test/docs/api/Arrow#movecount) option.
 
 ### nextEl
 
@@ -106,13 +106,13 @@ The "next" arrow HTMLElement
 
 **Type:** `ArrowOptions["nextElSelector"]`
 
-Current value of the [nextElSelector](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Arrow.md#nextelselector) option.
+Current value of the [nextElSelector](https://cjw783.github.io/flicking-docs-test/docs/api/Arrow#nextelselector) option.
 
 ### parentEl
 
 **Type:** `ArrowOptions["parentEl"]`
 
-Current value of the [parentEl](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Arrow.md#parentel) option.
+Current value of the [parentEl](https://cjw783.github.io/flicking-docs-test/docs/api/Arrow#parentel) option.
 
 ### prevEl
 
@@ -126,7 +126,7 @@ The "previous" arrow HTMLElement
 
 **Type:** `ArrowOptions["prevElSelector"]`
 
-Current value of the [prevElSelector](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Arrow.md#prevelselector) option.
+Current value of the [prevElSelector](https://cjw783.github.io/flicking-docs-test/docs/api/Arrow#prevelselector) option.
 
 ## Methods
 

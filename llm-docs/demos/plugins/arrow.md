@@ -71,8 +71,8 @@ Arrow elements must be placed inside the viewport.
 ## Related Links
 
 ### Related Demos
-- [Pagination](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/pagination.md): Page indicator
-- [Prev/Next](https://naver.github.io/egjs-flicking/llm-docs/demos/reactive/prev-next.md): Custom navigation
+- [Pagination](https://cjw783.github.io/flicking-docs-test/docs/pagination): Page indicator
+- [Prev/Next](https://cjw783.github.io/flicking-docs-test/docs/reactive/prev-next): Custom navigation
 
 ## Code
 

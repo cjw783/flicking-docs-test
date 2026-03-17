@@ -1,6 +1,6 @@
 # StrictControlOptions
 
-> Options for the [StrictControl](https://naver.github.io/egjs-flicking/llm-docs/api/classes/StrictControl.md)
+> Options for the [StrictControl](https://cjw783.github.io/flicking-docs-test/docs/api/classes/StrictControl)
 
 ## Properties
 

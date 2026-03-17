@@ -46,4 +46,4 @@ Previous active panel
 
 ## See Also
 
-- [WillChangeEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/WillChangeEvent.md) - Fired BEFORE the panel change starts
+- [WillChangeEvent](https://cjw783.github.io/flicking-docs-test/docs/api/WillChangeEvent) - Fired BEFORE the panel change starts

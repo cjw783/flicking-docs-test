@@ -8,10 +8,10 @@
 
 **Type:** `AfterResizeEvent`
 
-see [AfterResizeEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/AfterResizeEvent.md)
+see [AfterResizeEvent](https://cjw783.github.io/flicking-docs-test/docs/api/AfterResizeEvent)
 
 ### beforeResize
 
 **Type:** `BeforeResizeEvent`
 
-see [BeforeResizeEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/BeforeResizeEvent.md)
+see [BeforeResizeEvent](https://cjw783.github.io/flicking-docs-test/docs/api/BeforeResizeEvent)

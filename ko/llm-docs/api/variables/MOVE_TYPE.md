@@ -1,6 +1,6 @@
 # MOVE_TYPE
 
-> An object with all possible [moveType](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#movetype)s
+> An object with all possible [moveType](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#movetype)s
 
 ## Type
 

@@ -1,10 +1,10 @@
 # BeforeResizeEvent
 
-> Event that fires when Flicking's [resize](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#resize) is called, before updating the sizes of panels and viewport.
+> Event that fires when Flicking's [resize](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#resize) is called, before updating the sizes of panels and viewport.
 
 ## Description
 
-You can update the sizes of panels and viewport with this event, and it'll be applied after [resize](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#resize) is finished.
+You can update the sizes of panels and viewport with this event, and it'll be applied after [resize](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#resize) is finished.
 
 ## Properties
 

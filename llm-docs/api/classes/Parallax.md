@@ -4,7 +4,7 @@
 
 **See Also:**
 
-- [Demo: Parallax](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/parallax.md)
+- [Demo: Parallax](https://cjw783.github.io/flicking-docs-test/docs/api/../demos/plugins/parallax)
 
 ## Constructor
 

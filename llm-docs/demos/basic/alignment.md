@@ -1,6 +1,6 @@
 # Alignment
 
-The [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#align) option controls the alignment position of panels within the viewport. It determines whether panels are positioned at the left, center, or right.
+The [`align`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#align) option controls the alignment position of panels within the viewport. It determines whether panels are positioned at the left, center, or right.
 
 
 
@@ -10,7 +10,7 @@ The [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/Flic
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`align`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#align) | `"prev" \| "center" \| "next" \| number \| string` | `"center"` | Panel alignment position |
+| [`align`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#align) | `"prev" \| "center" \| "next" \| number \| string` | `"center"` | Panel alignment position |
 
 ### Comparison by Value
 
@@ -57,12 +57,12 @@ The end point (right or bottom) of the panel aligns to the end point of the view
 ## Related Links
 
 ### Related Options
-- [`panelsPerView`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#panelsperview): Number of panels per screen (affects alignment calculation)
-- [`circular`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#circular): Circular mode
+- [`panelsPerView`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#panelsperview): Number of panels per screen (affects alignment calculation)
+- [`circular`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#circular): Circular mode
 
 ### Related Demos
-- [Circular](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/circular.md): Circular mode with alignment combination
-- [Panels Per View](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/panels-per-view.md): Multi-panel display with alignment
+- [Circular](https://cjw783.github.io/flicking-docs-test/docs/circular): Circular mode with alignment combination
+- [Panels Per View](https://cjw783.github.io/flicking-docs-test/docs/panels-per-view): Multi-panel display with alignment
 
 ## Code
 

@@ -4,7 +4,7 @@
 
 **See Also:**
 
-- [Demo: Pagination](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/pagination.md)
+- [Demo: Pagination](https://cjw783.github.io/flicking-docs-test/docs/api/../demos/plugins/pagination)
 
 ## Constructor
 
@@ -110,19 +110,19 @@ Pagination display type
 
 **Type:** `PaginationOptions["bulletCount"]`
 
-Current value of the [bulletCount](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#bulletcount) option.
+Current value of the [bulletCount](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#bulletcount) option.
 
 ### bulletWrapperclassPrefixClass
 
 **Type:** `PaginationOptions["classPrefix"]`
 
-Sets [classPrefix](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#classprefix).
+Sets [classPrefix](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#classprefix).
 
 ### classPrefix
 
 **Type:** `string`
 
-Current value of the [classPrefix](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#classprefix) option.
+Current value of the [classPrefix](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#classprefix) option.
 
 *This property is read-only.*
 
@@ -130,49 +130,49 @@ Current value of the [classPrefix](https://naver.github.io/egjs-flicking/llm-doc
 
 **Type:** `PaginationOptions["fractionCurrentFormat"]`
 
-Current value of the [fractionCurrentFormat](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#fractioncurrentformat) option.
+Current value of the [fractionCurrentFormat](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#fractioncurrentformat) option.
 
 ### fractionTotalFormat
 
 **Type:** `PaginationOptions["fractionTotalFormat"]`
 
-Current value of the [fractionTotalFormat](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#fractiontotalformat) option.
+Current value of the [fractionTotalFormat](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#fractiontotalformat) option.
 
 ### parentEl
 
 **Type:** `PaginationOptions["parentEl"]`
 
-Current value of the [parentEl](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#parentel) option.
+Current value of the [parentEl](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#parentel) option.
 
 ### renderActiveBullet
 
 **Type:** `PaginationOptions["renderActiveBullet"]`
 
-Current value of the [renderActiveBullet](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#renderactivebullet) option.
+Current value of the [renderActiveBullet](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#renderactivebullet) option.
 
 ### renderBullet
 
 **Type:** `PaginationOptions["renderBullet"]`
 
-Current value of the [renderBullet](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#renderbullet) option.
+Current value of the [renderBullet](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#renderbullet) option.
 
 ### renderFraction
 
 **Type:** `PaginationOptions["renderFraction"]`
 
-Current value of the [renderFraction](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#renderfraction) option.
+Current value of the [renderFraction](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#renderfraction) option.
 
 ### scrollOnChange
 
 **Type:** `PaginationOptions["scrollOnChange"]`
 
-Current value of the [scrollOnChange](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#scrollonchange) option.
+Current value of the [scrollOnChange](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#scrollonchange) option.
 
 ### selector
 
 **Type:** `PaginationOptions["selector"]`
 
-Current value of the [selector](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Pagination.md#selector) option.
+Current value of the [selector](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#selector) option.
 
 ### type
 

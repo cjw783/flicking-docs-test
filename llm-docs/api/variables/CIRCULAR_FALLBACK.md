@@ -1,6 +1,6 @@
 # CIRCULAR_FALLBACK
 
-> An object with all possible [circularFallback](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#circularfallback)s
+> An object with all possible [circularFallback](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#circularfallback)s
 
 ## Type
 

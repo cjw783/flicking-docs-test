@@ -1,6 +1,6 @@
 # Easing
 
-The [`easing`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#easing) option sets the animation curve for panel movement. Specified as a function that takes a progress value (0-1) and returns the actual movement ratio.
+The [`easing`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#easing) option sets the animation curve for panel movement. Specified as a function that takes a progress value (0-1) and returns the actual movement ratio.
 
 
 
@@ -10,7 +10,7 @@ The [`easing`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/Fli
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`easing`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#easing) | `(x: number) => number` | `easeOutCubic` | Animation curve function |
+| [`easing`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#easing) | `(x: number) => number` | `easeOutCubic` | Animation curve function |
 
 ### Comparison by Value
 
@@ -65,10 +65,10 @@ The easing function must satisfy `f(0) = 0` and `f(1) = 1`. Breaking this rule w
 - [Easing Functions Cheat Sheet](https://easings.net/) - Visualization of various easing functions
 
 ### Related Options
-- [`duration`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md#duration): Animation duration
+- [`duration`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#duration): Animation duration
 
 ### Related Demos
-- [Duration](https://naver.github.io/egjs-flicking/llm-docs/demos/basic/duration.md): Adjusting animation time
+- [Duration](https://cjw783.github.io/flicking-docs-test/docs/duration): Adjusting animation time
 
 ## Code
 

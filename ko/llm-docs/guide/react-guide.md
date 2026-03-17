@@ -2,7 +2,7 @@
 
 Learn about React-specific features, event handling, and component usage for using Flicking in your React application.
 
-> **Info: This guide is for React users. For Vue3, see the [Vue3 Guide](https://naver.github.io/egjs-flicking/llm-docs/guide/vue3-guide.md). For vanilla JavaScript, see the [Quick Start](https://naver.github.io/egjs-flicking/llm-docs/guide/quickstart.md) guide.**
+> **Info: This guide is for React users. For Vue3, see the [Vue3 Guide](https://cjw783.github.io/flicking-docs-test/docs/vue3-guide). For vanilla JavaScript, see the [Quick Start](https://cjw783.github.io/flicking-docs-test/docs/quickstart) guide.**
 
 ---
 
@@ -99,9 +99,9 @@ function MyCarousel() {
 ```
 
 **See Also:**
-- [`ChangedEvent`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/ChangedEvent.md) - Fired AFTER panel change
-- [`WillChangeEvent`](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/WillChangeEvent.md) - Fired BEFORE panel change
-- [All Event Interfaces](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/ChangedEvent.md)
+- [`ChangedEvent`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/ChangedEvent) - Fired AFTER panel change
+- [`WillChangeEvent`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/WillChangeEvent) - Fired BEFORE panel change
+- [All Event Interfaces](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/ChangedEvent)
 
 ---
 
@@ -155,10 +155,10 @@ flickingRef.current.moveTo(2);   // ❌ May error if not mounted
 ```
 
 **See Also:**
-- [`moveTo()`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#moveto)
-- [`prev()`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#prev)
-- [`next()`](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#next)
-- [All Flicking Methods](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md)
+- [`moveTo()`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#moveto)
+- [`prev()`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prev)
+- [`next()`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#next)
+- [All Flicking Methods](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking)
 
 ---
 
@@ -192,7 +192,7 @@ import "@egjs/react-flicking/dist/flicking.css";
 You can use any styling approach (CSS files, CSS Modules, styled-components, inline styles, etc.) — the key point is that your class applies to the viewport.
 
 > **Tip: Complete Styling Guide**
-For detailed information about Flicking's HTML structure, required CSS, and comprehensive styling guidelines, see [HTML Structure & Styling](https://naver.github.io/egjs-flicking/llm-docs/guide/structure-and-styling.md).
+For detailed information about Flicking's HTML structure, required CSS, and comprehensive styling guidelines, see [HTML Structure & Styling](https://cjw783.github.io/flicking-docs-test/docs/structure-and-styling).
 
 ---
 
@@ -330,7 +330,7 @@ When `false`, panels with the same key won't re-render, improving performance. S
 </Flicking>
 ```
 
-> **Tip: These options are React-specific. See [Flicking API](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md) for the complete reference.**
+> **Tip: These options are React-specific. See [Flicking API](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking) for the complete reference.**
 
 ---
 

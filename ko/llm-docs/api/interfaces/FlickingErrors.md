@@ -48,7 +48,7 @@ if (!flicking.animating) {
 
 **See Also:**
 
-- [animating](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#animating)
+- [animating](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#animating)
 
 ### ANIMATION_INTERRUPTED
 
@@ -88,11 +88,11 @@ flicking.next({ interruptable: false });
 
 **See Also:**
 
-- [next](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#next)
+- [next](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#next)
 
-- [prev](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#prev)
+- [prev](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prev)
 
-- [moveTo](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#moveto)
+- [moveTo](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#moveto)
 
 ### ELEMENT_NOT_FOUND
 
@@ -175,9 +175,9 @@ if (targetIndex >= 0 && targetIndex < flicking.panelCount) {
 
 **See Also:**
 
-- [moveTo](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#moveto)
+- [moveTo](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#moveto)
 
-- [panelCount](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#panelcount)
+- [panelCount](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#panelcount)
 
 ### NO_ACTIVE
 
@@ -218,9 +218,9 @@ const currentIndex = flicking.currentPanel?.index ?? -1;
 
 **See Also:**
 
-- [currentPanel](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#currentpanel)
+- [currentPanel](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#currentpanel)
 
-- [panelCount](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#panelcount)
+- [panelCount](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#panelcount)
 
 ### NOT_ALLOWED_IN_FRAMEWORK
 
@@ -253,9 +253,9 @@ setPanels([...panels, newPanel]);
 
 **See Also:**
 
-- [insert](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#insert)
+- [insert](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#insert)
 
-- [remove](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#remove)
+- [remove](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#remove)
 
 - `replace`
 
@@ -294,9 +294,9 @@ const flicking = new Flicking("#flicking", {
 
 **See Also:**
 
-- [insert](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#insert)
+- [insert](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#insert)
 
-- [VirtualManager](https://naver.github.io/egjs-flicking/llm-docs/api/classes/VirtualManager.md)
+- [VirtualManager](https://cjw783.github.io/flicking-docs-test/docs/api/classes/VirtualManager)
 
 ### NOT_ATTACHED_TO_FLICKING
 
@@ -364,9 +364,9 @@ flicking.next();
 
 **See Also:**
 
-- [init](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#init)
+- [init](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#init)
 
-- [ReadyEvent](https://naver.github.io/egjs-flicking/llm-docs/api/types/ReadyEvent.md)
+- [ReadyEvent](https://cjw783.github.io/flicking-docs-test/docs/api/types/ReadyEvent)
 
 ### POSITION_NOT_REACHABLE
 
@@ -410,9 +410,9 @@ flicking.moveTo(2);
 
 **See Also:**
 
-- [moveToPosition](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Control.md#movetoposition)
+- [moveToPosition](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Control#movetoposition)
 
-- [range](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md#range)
+- [range](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Camera#range)
 
 ### STOP_CALLED_BY_USER
 
@@ -455,9 +455,9 @@ try {
 
 **See Also:**
 
-- [WillChangeEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/WillChangeEvent.md)
+- [WillChangeEvent](https://cjw783.github.io/flicking-docs-test/docs/api/WillChangeEvent)
 
-- [WillRestoreEvent](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/WillRestoreEvent.md)
+- [WillRestoreEvent](https://cjw783.github.io/flicking-docs-test/docs/api/WillRestoreEvent)
 
 ### TRANSFORM_NOT_SUPPORTED
 
@@ -552,7 +552,7 @@ new Flicking("#flicking", { moveType: "snap" });
 
 **See Also:**
 
-- [FlickingOptions](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/FlickingOptions.md)
+- [FlickingOptions](https://cjw783.github.io/flicking-docs-test/docs/api/FlickingOptions)
 
 ### WRONG_TYPE
 

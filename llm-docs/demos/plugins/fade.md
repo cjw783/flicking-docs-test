@@ -43,8 +43,8 @@ flicking.addPlugins(new Fade("", 2));
 ## Related Links
 
 ### Related Demos
-- [Parallax](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/parallax.md): Parallax scroll effect
-- [AutoPlay](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/autoplay.md): Use with autoplay
+- [Parallax](https://cjw783.github.io/flicking-docs-test/docs/parallax): Parallax scroll effect
+- [AutoPlay](https://cjw783.github.io/flicking-docs-test/docs/autoplay): Use with autoplay
 
 ## Code
 

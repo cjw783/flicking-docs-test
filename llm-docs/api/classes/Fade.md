@@ -4,7 +4,7 @@
 
 **See Also:**
 
-- [Demo: Fade](https://naver.github.io/egjs-flicking/llm-docs/demos/plugins/fade.md)
+- [Demo: Fade](https://cjw783.github.io/flicking-docs-test/docs/api/../demos/plugins/fade)
 
 ## Constructor
 

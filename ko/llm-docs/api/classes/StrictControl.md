@@ -2,7 +2,7 @@
 
 since v4.2.0
 
-> A [Control](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Control.md) that allows you to select the maximum number of panels to move at a time
+> A [Control](https://cjw783.github.io/flicking-docs-test/docs/api/Control) that allows you to select the maximum number of panels to move at a time
 
 ## Constructor
 
@@ -50,7 +50,7 @@ moveToPanel(panel: Panel, options: MoveToPanelParams): Promise<void>
 moveToPosition(position: number, duration: number, axesEvent?: OnRelease): Promise<void>
 ```
 
-Move [Camera](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.md) to the given position
+Move [Camera](https://cjw783.github.io/flicking-docs-test/docs/api/Camera) to the given position
 
 **Parameters:**
 
@@ -66,11 +66,11 @@ Move [Camera](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.
 
 **Throws:**
 
-- [MovementErrors](https://naver.github.io/egjs-flicking/llm-docs/api/types/MovementErrors.md)
+- [MovementErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/MovementErrors)
 
 **Fires:**
 
-- [MovementEvents](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/MovementEvents.md)
+- [MovementEvents](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/MovementEvents)
 
 ### updateInput
 
@@ -78,8 +78,8 @@ Move [Camera](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Camera.
 updateInput(): this
 ```
 
-Update [controller](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Control.md#controller)'s state
+Update [controller](https://cjw783.github.io/flicking-docs-test/docs/api/Control#controller)'s state
 
 **Returns:** The current instance for method chaining
 
-**Remarks:** StrictControl limits the movement range based on the [count](https://naver.github.io/egjs-flicking/llm-docs/api/interfaces/StrictControlOptions.md#count) option.
+**Remarks:** StrictControl limits the movement range based on the [count](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/StrictControlOptions#count) option.

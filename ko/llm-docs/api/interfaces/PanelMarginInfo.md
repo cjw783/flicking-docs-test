@@ -6,10 +6,10 @@
 
 **Type:** `number`
 
-CSS `margin-right` when the [horizontal](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#horizontal) is `true`, and `margin-bottom` else
+CSS `margin-right` when the [horizontal](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#horizontal) is `true`, and `margin-bottom` else
 
 ### prev
 
 **Type:** `number`
 
-CSS `margin-left` when the [horizontal](https://naver.github.io/egjs-flicking/llm-docs/api/classes/Flicking.md#horizontal) is `true`, and `margin-top` else
+CSS `margin-left` when the [horizontal](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#horizontal) is `true`, and `margin-top` else

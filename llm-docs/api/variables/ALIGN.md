@@ -1,6 +1,6 @@
 # ALIGN
 
-> An object with all possible predefined literal string for the [align](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#align) option
+> An object with all possible predefined literal string for the [align](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#align) option
 
 ## Type
 

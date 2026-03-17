@@ -4,7 +4,7 @@
 
 **See Also:**
 
-- [Demo: Fade](https://cjw783.github.io/flicking-docs-test/docs/api/../demos/plugins/fade)
+- [Demo: Fade](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/fade.md)
 
 ## Constructor
 

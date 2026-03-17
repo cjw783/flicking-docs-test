@@ -49,8 +49,8 @@ flicking.addPlugins(new AutoPlay({
 ## Related Links
 
 ### Related Demos
-- [Fade](https://cjw783.github.io/flicking-docs-test/docs/fade): Use with fade effect
-- [Pagination](https://cjw783.github.io/flicking-docs-test/docs/pagination): Use with page indicator
+- [Fade](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/fade.md): Use with fade effect
+- [Pagination](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/pagination.md): Use with page indicator
 
 ## Code
 

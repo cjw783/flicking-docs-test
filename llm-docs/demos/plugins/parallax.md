@@ -78,9 +78,9 @@ flicking.addPlugins(
 ## Related Links
 
 ### Related Demos
-- [Parallax (Reactive API)](https://cjw783.github.io/flicking-docs-test/docs/reactive/parallax): Parallax using `indexProgress` (includes opacity effect)
-- [Fade](https://cjw783.github.io/flicking-docs-test/docs/fade): Fade effect
-- [Perspective](https://cjw783.github.io/flicking-docs-test/docs/perspective): 3D perspective effect
+- [Parallax (Reactive API)](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/reactive/parallax.md): Parallax using `indexProgress` (includes opacity effect)
+- [Fade](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/fade.md): Fade effect
+- [Perspective](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/perspective.md): 3D perspective effect
 
 ## Code
 

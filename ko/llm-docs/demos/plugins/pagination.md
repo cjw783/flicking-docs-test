@@ -73,8 +73,8 @@ The pagination element must be placed inside the viewport.
 ## Related Links
 
 ### Related Demos
-- [Arrow](https://cjw783.github.io/flicking-docs-test/docs/arrow): Arrow navigation
-- [Pagination (Reactive API)](https://cjw783.github.io/flicking-docs-test/docs/reactive/pagination): Custom pagination based on Reactive API
+- [Arrow](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/arrow.md): Arrow navigation
+- [Pagination (Reactive API)](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/reactive/pagination.md): Custom pagination based on Reactive API
 
 ## Code
 

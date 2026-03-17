@@ -1,6 +1,6 @@
 # EVENTS
 
-> Event type object with event name strings of [Flicking](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking)
+> Event type object with event name strings of [Flicking](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md)
 
 ## Type
 

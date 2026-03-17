@@ -8,4 +8,4 @@
 
 **Type:** `ValueOf<typeof DIRECTION>`
 
-Direction indicates whether the camera's position is at the maximum range([DIRECTION.NEXT](https://cjw783.github.io/flicking-docs-test/docs/api/variables/DIRECTION)) or minimum range([DIRECTION.PREV](https://cjw783.github.io/flicking-docs-test/docs/api/variables/DIRECTION))
+Direction indicates whether the camera's position is at the maximum range([DIRECTION.NEXT](https://cjw783.github.io/flicking-docs-test/llm-docs/api/variables/DIRECTION.md)) or minimum range([DIRECTION.PREV](https://cjw783.github.io/flicking-docs-test/llm-docs/api/variables/DIRECTION.md))

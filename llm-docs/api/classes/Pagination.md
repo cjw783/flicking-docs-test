@@ -4,7 +4,7 @@
 
 **See Also:**
 
-- [Demo: Pagination](https://cjw783.github.io/flicking-docs-test/docs/api/../demos/plugins/pagination)
+- [Demo: Pagination](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/pagination.md)
 
 ## Constructor
 
@@ -110,19 +110,19 @@ Pagination display type
 
 **Type:** `PaginationOptions["bulletCount"]`
 
-Current value of the [bulletCount](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#bulletcount) option.
+Current value of the [bulletCount](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#bulletcount) option.
 
 ### bulletWrapperclassPrefixClass
 
 **Type:** `PaginationOptions["classPrefix"]`
 
-Sets [classPrefix](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#classprefix).
+Sets [classPrefix](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#classprefix).
 
 ### classPrefix
 
 **Type:** `string`
 
-Current value of the [classPrefix](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#classprefix) option.
+Current value of the [classPrefix](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#classprefix) option.
 
 *This property is read-only.*
 
@@ -130,49 +130,49 @@ Current value of the [classPrefix](https://cjw783.github.io/flicking-docs-test/d
 
 **Type:** `PaginationOptions["fractionCurrentFormat"]`
 
-Current value of the [fractionCurrentFormat](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#fractioncurrentformat) option.
+Current value of the [fractionCurrentFormat](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#fractioncurrentformat) option.
 
 ### fractionTotalFormat
 
 **Type:** `PaginationOptions["fractionTotalFormat"]`
 
-Current value of the [fractionTotalFormat](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#fractiontotalformat) option.
+Current value of the [fractionTotalFormat](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#fractiontotalformat) option.
 
 ### parentEl
 
 **Type:** `PaginationOptions["parentEl"]`
 
-Current value of the [parentEl](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#parentel) option.
+Current value of the [parentEl](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#parentel) option.
 
 ### renderActiveBullet
 
 **Type:** `PaginationOptions["renderActiveBullet"]`
 
-Current value of the [renderActiveBullet](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#renderactivebullet) option.
+Current value of the [renderActiveBullet](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#renderactivebullet) option.
 
 ### renderBullet
 
 **Type:** `PaginationOptions["renderBullet"]`
 
-Current value of the [renderBullet](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#renderbullet) option.
+Current value of the [renderBullet](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#renderbullet) option.
 
 ### renderFraction
 
 **Type:** `PaginationOptions["renderFraction"]`
 
-Current value of the [renderFraction](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#renderfraction) option.
+Current value of the [renderFraction](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#renderfraction) option.
 
 ### scrollOnChange
 
 **Type:** `PaginationOptions["scrollOnChange"]`
 
-Current value of the [scrollOnChange](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#scrollonchange) option.
+Current value of the [scrollOnChange](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#scrollonchange) option.
 
 ### selector
 
 **Type:** `PaginationOptions["selector"]`
 
-Current value of the [selector](https://cjw783.github.io/flicking-docs-test/docs/api/Pagination#selector) option.
+Current value of the [selector](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Pagination.md#selector) option.
 
 ### type
 

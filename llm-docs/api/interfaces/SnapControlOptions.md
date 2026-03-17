@@ -1,6 +1,6 @@
 # SnapControlOptions
 
-> Options for the [SnapControl](https://cjw783.github.io/flicking-docs-test/docs/api/classes/SnapControl)
+> Options for the [SnapControl](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/SnapControl.md)
 
 ## Properties
 

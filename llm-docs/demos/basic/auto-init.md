@@ -1,6 +1,6 @@
 # Auto Init
 
-The [`autoInit`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#autoinit) option controls whether `init()` is automatically called when a Flicking instance is created. Set it to `false` when deferred initialization is needed.
+The [`autoInit`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#autoinit) option controls whether `init()` is automatically called when a Flicking instance is created. Set it to `false` when deferred initialization is needed.
 
 
 
@@ -10,8 +10,8 @@ The [`autoInit`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`autoInit`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#autoinit) | `boolean` | `true` | Automatically call init() on creation |
-| [`preventEventsBeforeInit`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#preventeventsbeforeinit) | `boolean` | `true` | Prevent events from firing before init() is called |
+| [`autoInit`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#autoinit) | `boolean` | `true` | Automatically call init() on creation |
+| [`preventEventsBeforeInit`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#preventeventsbeforeinit) | `boolean` | `true` | Prevent events from firing before init() is called |
 
 ### Comparison by Value
 
@@ -81,11 +81,11 @@ Initializing while in `display: none` state may cause incorrect size calculation
 ## Related Links
 
 ### Related Options
-- [`defaultIndex`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#defaultindex): Initial panel index
-- [`preventEventsBeforeInit`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#preventeventsbeforeinit): Prevent events before init()
+- [`defaultIndex`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#defaultindex): Initial panel index
+- [`preventEventsBeforeInit`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#preventeventsbeforeinit): Prevent events before init()
 
 ### Related Demos
-- [Default Index](https://cjw783.github.io/flicking-docs-test/docs/default-index): Initial panel setup
+- [Default Index](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/basic/default-index.md): Initial panel setup
 
 ## Code
 

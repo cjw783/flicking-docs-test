@@ -1,6 +1,6 @@
 # FreeControlOptions
 
-> Options for the [FreeControl](https://cjw783.github.io/flicking-docs-test/docs/api/classes/FreeControl)
+> Options for the [FreeControl](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/FreeControl.md)
 
 ## Properties
 

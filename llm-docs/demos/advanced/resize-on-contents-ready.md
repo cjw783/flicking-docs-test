@@ -1,6 +1,6 @@
 # Resize On Contents Ready
 
-Use the [`resizeOnContentsReady`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#resizeoncontentsready) option to automatically recalculate panel size and position after images/videos have loaded.
+Use the [`resizeOnContentsReady`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#resizeoncontentsready) option to automatically recalculate panel size and position after images/videos have loaded.
 
 
 
@@ -10,7 +10,7 @@ Use the [`resizeOnContentsReady`](https://cjw783.github.io/flicking-docs-test/do
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`resizeOnContentsReady`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#resizeoncontentsready) | `boolean` | `false` | Automatically recalculate panel size when content loads |
+| [`resizeOnContentsReady`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#resizeoncontentsready) | `boolean` | `false` | Automatically recalculate panel size when content loads |
 
 ### Mode Comparison
 
@@ -82,14 +82,14 @@ img.addEventListener("load", () => {
 ## Related Links
 
 ### Related Options
-- [`adaptive`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#adaptive): Auto-adjust viewport height
-- [`autoResize`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#autoresize): Auto resize on window resize
+- [`adaptive`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#adaptive): Auto-adjust viewport height
+- [`autoResize`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#autoresize): Auto resize on window resize
 
 ### Related Methods
-- [`resize`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#resize): Manual layout recalculation
+- [`resize`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#resize): Manual layout recalculation
 
 ### Related Demos
-- [Adaptive](https://cjw783.github.io/flicking-docs-test/docs/basic/adaptive): Adaptive option demo
+- [Adaptive](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/basic/adaptive.md): Adaptive option demo
 
 ## Code
 

@@ -10,9 +10,9 @@ Use `currentPanelIndex`, `totalPanelCount`, and `moveTo` from the Reactive API t
 
 | Property / Method | Type | Description |
 |-------------------|------|-------------|
-| [`currentPanelIndex`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingReactiveState#currentpanelindex) | `number` | Currently active panel index |
-| [`totalPanelCount`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingReactiveState#totalpanelcount) | `number` | Total number of panels |
-| [`moveTo`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingReactiveMethod#moveto) | `(i: number) => Promise` | Move to a specific panel |
+| [`currentPanelIndex`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingReactiveState.md#currentpanelindex) | `number` | Currently active panel index |
+| [`totalPanelCount`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingReactiveState.md#totalpanelcount) | `number` | Total number of panels |
+| [`moveTo`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingReactiveMethod.md#moveto) | `(i: number) => Promise` | Move to a specific panel |
 
 ### Behavior
 
@@ -45,12 +45,12 @@ Use `currentPanelIndex`, `totalPanelCount`, and `moveTo` from the Reactive API t
 ## Related Links
 
 ### Related API
-- [`currentPanelIndex`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingReactiveState#currentpanelindex): Active panel index
-- [`moveTo`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingReactiveMethod#moveto): Navigate to panel
+- [`currentPanelIndex`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingReactiveState.md#currentpanelindex): Active panel index
+- [`moveTo`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingReactiveMethod.md#moveto): Navigate to panel
 
 ### Related Demos
-- [Prev / Next](https://cjw783.github.io/flicking-docs-test/docs/prev-next): Previous/Next button navigation
-- [Progress Bar](https://cjw783.github.io/flicking-docs-test/docs/progress-bar): Scroll progress indicator
+- [Prev / Next](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/reactive/prev-next.md): Previous/Next button navigation
+- [Progress Bar](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/reactive/progress-bar.md): Scroll progress indicator
 
 ## Code
 

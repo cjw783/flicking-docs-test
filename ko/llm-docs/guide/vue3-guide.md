@@ -2,7 +2,7 @@
 
 Learn about Vue3-specific features, event handling, and component usage for using Flicking in your Vue3 application.
 
-> **Info: This guide is for Vue3 users. For React, see the [React Guide](https://cjw783.github.io/flicking-docs-test/docs/react-guide). For vanilla JavaScript, see the [Quick Start](https://cjw783.github.io/flicking-docs-test/docs/quickstart) guide.**
+> **Info: This guide is for Vue3 users. For React, see the [React Guide](https://cjw783.github.io/flicking-docs-test/llm-docs/guide/react-guide.md). For vanilla JavaScript, see the [Quick Start](https://cjw783.github.io/flicking-docs-test/llm-docs/guide/quickstart.md) guide.**
 
 ---
 
@@ -139,9 +139,9 @@ const handleMoveStart = (e) => {
 ```
 
 **See Also:**
-- [`ChangedEvent`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/ChangedEvent) - Fired AFTER panel change
-- [`WillChangeEvent`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/WillChangeEvent) - Fired BEFORE panel change
-- [All Event Interfaces](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/ChangedEvent)
+- [`ChangedEvent`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/ChangedEvent.md) - Fired AFTER panel change
+- [`WillChangeEvent`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/WillChangeEvent.md) - Fired BEFORE panel change
+- [All Event Interfaces](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/ChangedEvent.md)
 
 ---
 
@@ -195,10 +195,10 @@ flickingRef.value.moveTo(2);   // ❌ May error if not mounted
 ```
 
 **See Also:**
-- [`moveTo()`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#moveto)
-- [`prev()`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prev)
-- [`next()`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#next)
-- [All Flicking Methods](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking)
+- [`moveTo()`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#moveto)
+- [`prev()`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#prev)
+- [`next()`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#next)
+- [All Flicking Methods](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md)
 
 ---
 
@@ -284,7 +284,7 @@ import "@egjs/vue3-flicking/dist/flicking.css";
 You can use any styling approach (scoped styles, CSS modules, inline styles, global styles, etc.) — the key point is that your class applies to the viewport.
 
 > **Tip: Complete Styling Guide**
-For detailed information about Flicking's HTML structure, required CSS, and comprehensive styling guidelines, see [HTML Structure & Styling](https://cjw783.github.io/flicking-docs-test/docs/structure-and-styling).
+For detailed information about Flicking's HTML structure, required CSS, and comprehensive styling guidelines, see [HTML Structure & Styling](https://cjw783.github.io/flicking-docs-test/llm-docs/guide/structure-and-styling.md).
 
 ---
 

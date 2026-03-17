@@ -4,7 +4,7 @@
 
 ## Description
 
-Fired when user drag amount does not reach [threshold](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#threshold) and the camera starts returning to [currentPanel](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#currentpanel).
+Fired when user drag amount does not reach [threshold](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#threshold) and the camera starts returning to [currentPanel](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#currentpanel).
 
 ## Properties
 
@@ -34,4 +34,4 @@ Panel to restore
 
 ## See Also
 
-- [RestoredEvent](https://cjw783.github.io/flicking-docs-test/docs/api/RestoredEvent) - Fired AFTER restoration completes
+- [RestoredEvent](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/RestoredEvent.md) - Fired AFTER restoration completes

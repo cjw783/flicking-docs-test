@@ -10,7 +10,7 @@ Use `indexProgress` from the Reactive API to create a parallax effect where inne
 
 | Property | Type | Description |
 |----------|------|-------------|
-| [`indexProgress`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingReactiveState#indexprogress) | `number` | Camera position as a fractional panel index |
+| [`indexProgress`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingReactiveState.md#indexprogress) | `number` | Camera position as a fractional panel index |
 
 ### Effect Mapping
 
@@ -45,11 +45,11 @@ The varying offsets per bar create the signature parallax look: elements closer 
 ## Related Links
 
 ### Related API
-- [`indexProgress`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingReactiveState#indexprogress): Fractional panel index progress
+- [`indexProgress`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingReactiveState.md#indexprogress): Fractional panel index progress
 
 ### Related Demos
-- [Coverflow](https://cjw783.github.io/flicking-docs-test/docs/coverflow): 3D rotation effect using indexProgress
-- [Progress Bar](https://cjw783.github.io/flicking-docs-test/docs/progress-bar): Scroll progress indicator
+- [Coverflow](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/reactive/coverflow.md): 3D rotation effect using indexProgress
+- [Progress Bar](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/reactive/progress-bar.md): Scroll progress indicator
 
 ## Code
 

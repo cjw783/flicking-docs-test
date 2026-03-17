@@ -1,6 +1,6 @@
 # Infinite Scroll
 
-Implement infinite scroll using the [`needPanelThreshold`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#needpanelthreshold) option and the `needPanel` event.
+Implement infinite scroll using the [`needPanelThreshold`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#needpanelthreshold) option and the `needPanel` event.
 
 
 
@@ -10,13 +10,13 @@ Implement infinite scroll using the [`needPanelThreshold`](https://cjw783.github
 
 | Option | Type | Default | Description |
 |--------|------|---------|-------------|
-| [`needPanelThreshold`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/FlickingOptions#needpanelthreshold) | `number` | `0` | Threshold for triggering the needPanel event (px) |
+| [`needPanelThreshold`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/FlickingOptions.md#needpanelthreshold) | `number` | `0` | Threshold for triggering the needPanel event (px) |
 
 ### Related Events
 
 | Event | Description |
 |-------|-------------|
-| [`needPanel`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/NeedPanelEvent) | Fired when empty space is visible at the viewport edge |
+| [`needPanel`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/NeedPanelEvent.md) | Fired when empty space is visible at the viewport edge |
 
 ### Threshold Comparison
 
@@ -109,14 +109,14 @@ const handleNeedPanel = async (e) => {
 ## Related Links
 
 ### Related Events
-- [`needPanel`](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/NeedPanelEvent): Panel needed event
+- [`needPanel`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/NeedPanelEvent.md): Panel needed event
 
 ### Related Methods
-- [`append`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#append): Add panels at the end
-- [`prepend`](https://cjw783.github.io/flicking-docs-test/docs/api/classes/Flicking#prepend): Add panels at the front
+- [`append`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#append): Add panels at the end
+- [`prepend`](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Flicking.md#prepend): Add panels at the front
 
 ### Related Demos
-- [Virtual Scroll](https://cjw783.github.io/flicking-docs-test/docs/virtual-scroll): Virtual rendering of large numbers of panels
+- [Virtual Scroll](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/advanced/virtual-scroll.md): Virtual rendering of large numbers of panels
 
 ## Code
 

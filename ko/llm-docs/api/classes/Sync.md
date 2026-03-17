@@ -4,7 +4,7 @@
 
 **See Also:**
 
-- [Demo: Sync](https://cjw783.github.io/flicking-docs-test/docs/api/../demos/plugins/sync)
+- [Demo: Sync](https://cjw783.github.io/flicking-docs-test/llm-docs/demos/plugins/sync.md)
 
 ## Constructor
 
@@ -54,7 +54,7 @@ Method to synchronize between Flickings. `"camera"` syncs by camera position, `"
 
 **Type:** `SyncOptions["synchronizedFlickingOptions"]`
 
-Current value of the [synchronizedFlickingOptions](https://cjw783.github.io/flicking-docs-test/docs/api/Sync#synchronizedflickingoptions) option.
+Current value of the [synchronizedFlickingOptions](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Sync.md#synchronizedflickingoptions) option.
 
 ### type
 

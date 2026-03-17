@@ -2,7 +2,7 @@
 
 since v4.2.0
 
-> A [Control](https://cjw783.github.io/flicking-docs-test/docs/api/Control) that allows you to select the maximum number of panels to move at a time
+> A [Control](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Control.md) that allows you to select the maximum number of panels to move at a time
 
 ## Constructor
 
@@ -50,7 +50,7 @@ moveToPanel(panel: Panel, options: MoveToPanelParams): Promise<void>
 moveToPosition(position: number, duration: number, axesEvent?: OnRelease): Promise<void>
 ```
 
-Move [Camera](https://cjw783.github.io/flicking-docs-test/docs/api/Camera) to the given position
+Move [Camera](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Camera.md) to the given position
 
 **Parameters:**
 
@@ -66,11 +66,11 @@ Move [Camera](https://cjw783.github.io/flicking-docs-test/docs/api/Camera) to th
 
 **Throws:**
 
-- [MovementErrors](https://cjw783.github.io/flicking-docs-test/docs/api/types/MovementErrors)
+- [MovementErrors](https://cjw783.github.io/flicking-docs-test/llm-docs/api/types/MovementErrors.md)
 
 **Fires:**
 
-- [MovementEvents](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/MovementEvents)
+- [MovementEvents](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/MovementEvents.md)
 
 ### updateInput
 
@@ -78,8 +78,8 @@ Move [Camera](https://cjw783.github.io/flicking-docs-test/docs/api/Camera) to th
 updateInput(): this
 ```
 
-Update [controller](https://cjw783.github.io/flicking-docs-test/docs/api/Control#controller)'s state
+Update [controller](https://cjw783.github.io/flicking-docs-test/llm-docs/api/classes/Control.md#controller)'s state
 
 **Returns:** The current instance for method chaining
 
-**Remarks:** StrictControl limits the movement range based on the [count](https://cjw783.github.io/flicking-docs-test/docs/api/interfaces/StrictControlOptions#count) option.
+**Remarks:** StrictControl limits the movement range based on the [count](https://cjw783.github.io/flicking-docs-test/llm-docs/api/interfaces/StrictControlOptions.md#count) option.
